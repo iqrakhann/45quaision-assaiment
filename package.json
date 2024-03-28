@@ -1,0 +1,19 @@
+{
+  "name": "typescript and node js 45 assaigments",
+  "version": "1.0.0",
+  "description": "in this typescript file we solved all 45 assaigments of govornor sindh it initativive",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iqra tariq (Rool No) 00244539",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
